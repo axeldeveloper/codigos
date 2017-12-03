@@ -9,7 +9,7 @@ Crie um novo repositório no GitHub. Para evitar erros, não inicialize o novo r
 com README , licença ou gitignorearquivos. Você pode adicionar esses arquivos depois 
 que seu projeto foi empurrado para o GitHub
 
-#Abra Git Bash.
+# Abra Git Bash.
 
 Mude o diretório de trabalho atual para o projeto local.
 Inicialize o diretório local como um repositório Git.
