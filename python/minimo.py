@@ -6,7 +6,6 @@ __author__ = "axeldeveloper"
 __date__ = "$29/06/2017 22:34:13$"
 
 
-
-
-print "Hello World"
+def calcularMinio():
+    return "calcular"
 
