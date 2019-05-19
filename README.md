@@ -1,5 +1,14 @@
-# codigos
-codigos de python java e javascript 
+# helper code 
+```
+Give examples
+```
+python
+go
+php
+c#
+javascript
+html
+
 
 
 Reinitialized existing Git repository in
