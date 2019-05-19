@@ -11,6 +11,25 @@ Give examples
 - javascript
 - html
 
+### knowledge of axel
+
+- [x] python
+- [x] Dajngo
+- [x] go
+- [x] c#
+- [x] php
+- [x] oracle
+- [x] mysql
+- [x] postgres
+- [x] sql server R2 2008 - 2012
+- [x] mongo
+- [x] elasticsearch
+- [x] React
+- [x] Vuejs
+- [x] WS api restfull
+
+
+
 
 ### Git
 
