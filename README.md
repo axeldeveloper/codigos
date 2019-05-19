@@ -86,7 +86,7 @@ Empurra as alterações em seu repositório local até o repositório remoto que
 
 ## Authors
 
-* **Axel Alexander ** - *web site* - [PurpleBooth](http://axel-dev.herokuapp.com/)
+* **Axel Alexander ** - *web site* - [contact and contracts](http://axel-dev.herokuapp.com/)
 
  See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
