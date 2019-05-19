@@ -42,10 +42,26 @@ confirme e adicione o arquivo novamente.
 No topo da página de configuração rápida do seu repositório GitHub, clique em  para copiar o URL do repositório remoto.
 No prompt do Comando, adicione o URL do repositório remoto onde o seu repositório local será empurrado.
 
+```
 git remote add origin remote repository https://github.com/axeldeveloper/codigos.git
+```
 
-**Define o novo remoto** 
+
+
+* [github Branches](https://git-scm.com/book/de/v2/Git-Branching-Remote-Branches) - Branches
+
+
 **git remote -v**
+
+SYNOPSIS
+
+    - git-remote
+    - git-remote add [-t <branch>] [-m <master>] [-f] [--mirror] <name> <url>
+    - git-remote rm <name>
+    - git-remote show <name>
+    - git-remote prune <name>
+    - git-remote update [group]
+
 
 **git push origin master**
 ```
