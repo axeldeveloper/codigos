@@ -3,12 +3,14 @@ import sys
 import pandas as pd
 import pymongo
 import json
-
+import os
 
 class MongoBase:
+    
     def __init__(self,collection):
         self.collection=collection
         self.OpenDB()
+    
     def OpenDB(self):
         user=''
         passwd=''
@@ -25,6 +27,7 @@ class MongoBase:
         self.db=self.con['semaforo']
         
         self.collection=self.db[self.collection]
+    
     def closeDB(self):
         self.con.close()
 

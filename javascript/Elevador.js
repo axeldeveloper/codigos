@@ -1,4 +1,3 @@
-"""
 /**
  * Remove duplicate items from an array
  * @param {Array} arr
@@ -29,7 +28,7 @@ function solution(A, B, M, X, Y) {
         rounds = [];
 
     for (let i = 0, len = A.length; i < len; i += 1) {
-        // If there's an unclosed trip, let’s see if we can get more people in
+        // If there's an unclosed trip, letï¿½s see if we can get more people in
         if (typeof rounds[trip] !== 'undefined') {
             // Check if we have filled the capacity for the current trip,
             // if so, then close the existing trip and create a new one
